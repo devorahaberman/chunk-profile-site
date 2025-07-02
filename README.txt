@@ -3,7 +3,6 @@
 Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, professional napper, enthusiastic drooler, and part-time yard sentinel. This is a static website project built with HTML5 UP and lovingly customized to celebrate one very large, very hairy, very good boy.
 
 <img src="images/banner.jpg" width="400">
-<img src="https://raw.githubusercontent.com/devorahortega/chunk-profile-site/main/images/banner.jpg" width="400">
 ![Chunk being majestic](https://raw.githubusercontent.com/devorahortega/chunk-profile-site/main/images/banner.jpg)
 
 This site introduces you to the floof, the myth, the legend.
