@@ -4,6 +4,9 @@ Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, profess
 
 ![Chunk looking majestic](images/banner.jpg)
 
+<img src="images/chunk-welcome.jpg" alt="Chunk being majestic" width="400">
+
+
 This site introduces you to the floof, the myth, the legend.
 ---
 
