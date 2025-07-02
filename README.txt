@@ -2,6 +2,13 @@
 
 Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, professional napper, enthusiastic drooler, and part-time yard sentinel. This is a static website project built with HTML5 UP and lovingly customized to celebrate one very large, very hairy, very good boy.
 
+
+<section class="banner style1 ...">
+  <div class="content">
+    <!-- Add image here -->
+    <img src="images/banner.jpg" alt="A fluffy majestic Chunk" style="max-width: 100%; height: auto; border-radius: 12px; margin: 1em 0;">
+</section>
+
 ---
 
 ## 📸 About the Site
