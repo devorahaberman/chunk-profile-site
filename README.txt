@@ -2,13 +2,9 @@
 
 Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, professional napper, enthusiastic drooler, and part-time yard sentinel. This is a static website project built with HTML5 UP and lovingly customized to celebrate one very large, very hairy, very good boy.
 
+![Chunk looking majestic](images/banner.jpg)
 
-<section class="banner style1 ...">
-
-    <!-- Add image here -->
-    <img src="images/banner.jpg" alt="A fluffy majestic Chunk" style="max-width: 100%; height: auto; border-radius: 12px; margin: 1em 0;">
-</section>
-
+This site introduces you to the floof, the myth, the legend.
 ---
 
 ## 📸 About the Site
@@ -40,6 +36,33 @@ Want to run this locally and admire Chunk without Wi-Fi?
 git clone https://github.com/YOUR-USERNAME/chunk-profile.git
 cd chunk-profile
 open index.html
+
+Or just visit the live site here and let Chunk bark at you through the browser.
+
+📦 Features
+Fully responsive layout (because Chunk is large on all screens)
+
+Mobile-friendly (Chunk's face will fill your phone)
+
+Smooth scrolling and image transitions
+
+Custom section copy that reflects the dignity and chaos of living with a Tibetan Mastiff
+
+🐕 Why Chunk?
+Chunk is:
+
+Fluffy
+
+Loud
+
+Loyal
+
+Dramatic
+
+And now, on the web
+
+📬 Feedback or Treats?
+If you'd like to contribute, fix a typo, or send a virtual belly rub, feel free to fork or open an issue. Chunk accepts praise in the form of GitHub stars ⭐ or real-life snacks 🦴.
 
 
 HTML FRAMEWORK CREDITS:
