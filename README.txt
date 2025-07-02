@@ -2,10 +2,7 @@
 
 Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, professional napper, enthusiastic drooler, and part-time yard sentinel. This is a static website project built with HTML5 UP and lovingly customized to celebrate one very large, very hairy, very good boy.
 
-<img src="images/banner.jpg" width="400">
-![Chunk being majestic](https://raw.githubusercontent.com/devorahortega/chunk-profile-site/main/images/banner.jpg)
-![Banner](https://raw.githubusercontent.com/devorahortega/chunk-profile-site/main/images/banner.jpg)
-![Banner](images/banner.jpg)
+<img src="images/banner.jpg" alt="Chunk being majestic" width="400">
 
 This site introduces you to the floof, the myth, the legend.
 ---
@@ -66,6 +63,11 @@ And now, on the web
 
 📬 Feedback or Treats?
 If you'd like to contribute, fix a typo, or send a virtual belly rub, feel free to fork or open an issue. Chunk accepts praise in the form of GitHub stars ⭐ or real-life snacks 🦴.
+
+📄 License
+This project is MIT-licensed because Chunk believes in open source — and open snack containers.
+
+Made with love and drool by Devorah Ortega.
 
 
 HTML FRAMEWORK CREDITS:
