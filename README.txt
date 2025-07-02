@@ -5,8 +5,20 @@ Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, profess
 
 <section class="banner style1 ...">
   <div class="content">
+    <p>Hello my name is</p>
+
     <!-- Add image here -->
-    <img src="images/banner.jpg" alt="A fluffy majestic Chunk" style="max-width: 100%; height: auto; border-radius: 12px; margin: 1em 0;">
+    <img src="images/chunk-welcome.jpg" alt="A fluffy majestic Chunk" style="max-width: 100%; height: auto; border-radius: 12px; margin: 1em 0;">
+
+    <h1>CHUNK</h1>
+    <h4>Defender of the Yard and Living Couch</h4>
+    <ul class="actions stacked">
+      <li><a href="#first" class="button big wide smooth-scroll-middle">Get to Know Me</a></li>
+    </ul>
+  </div>
+  <div class="image">
+    <img src="images/banner.jpg" alt="" />
+  </div>
 </section>
 
 ---
