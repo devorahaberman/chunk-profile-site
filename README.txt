@@ -4,6 +4,8 @@ Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, profess
 
 <img src="images/banner.jpg" width="400">
 ![Chunk being majestic](https://raw.githubusercontent.com/devorahortega/chunk-profile-site/main/images/banner.jpg)
+![Banner](https://raw.githubusercontent.com/devorahortega/chunk-profile-site/main/images/banner.jpg)
+![Banner](images/banner.jpg)
 
 This site introduces you to the floof, the myth, the legend.
 ---
