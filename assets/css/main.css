@@ -1,6 +1,11 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
-
+@font-face {
+  font-family: 'GoodBoy';
+  src: url('assets/webfonts/GoodBoy-ZVJrl.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 /*
 	Story by HTML5 UP
 	html5up.net | @ajlkn
@@ -22,7 +27,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font: GoodBoy, Helvetica, sans-serif;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
