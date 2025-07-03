@@ -2069,7 +2069,7 @@ input, select, textarea {
 						}
 
 		}
-
+		
 /* Box */
 
 	.box {
@@ -4867,6 +4867,7 @@ input, select, textarea {
 		position: relative;
 		overflow-x: hidden;
 		text-align: left;
+		background-color: #3c91e6ff;
 	}
 
 		.spotlight.style1 .content {
