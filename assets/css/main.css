@@ -38,6 +38,10 @@ body {
   cursor: url('assets/cursor.png'), auto;
 }
 
+body {
+  cursor: url('/images/cursor.png') 0 0, auto;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
