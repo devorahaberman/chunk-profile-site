@@ -48,14 +48,10 @@ Custom section copy that reflects the dignity and chaos of living with a Tibetan
 
 🐕 Why Chunk?
 Chunk is:
-
-Fluffy
-
-Loud
-
-Loyal
-
-Dramatic
+- Fluffy
+- Loud
+- Loyal
+- Dramatic
 
 And now, on the web
 
@@ -67,10 +63,16 @@ This project is MIT-licensed because Chunk believes in open source — and open 
 
 Made with love and drool by Devorah Ortega.
 
+ICON CREDITS:
+Icons8
+
+FONT CREDITS:
+Google Fonts
+
+IMAGE CREDITS:												
+All images are copyright of their respective owners.
 
 HTML FRAMEWORK CREDITS:
-
-
 Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
