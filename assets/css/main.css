@@ -39,7 +39,7 @@ body {
 }
 
 body {
-  cursor: url('/images/cursor.png') 0 0, auto;
+  cursor: url('/assets/cursor.png') 0 0, auto;
 }
 
 article, aside, details, figcaption, figure,
