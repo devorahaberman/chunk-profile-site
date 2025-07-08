@@ -8654,6 +8654,11 @@ input, select, textarea {
   border-radius: 8px;
   cursor: pointer;
   transition: background 0.3s;
+
+  display: flex;               
+  justify-content: center;     
+  align-items: center;         
+  text-align: center;          
 }
 
 .newsletter-container button:hover {
