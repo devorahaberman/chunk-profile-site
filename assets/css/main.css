@@ -1,10 +1,25 @@
-@import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 @font-face {
   font-family: 'GoodBoy';
-  src: url('assets/webfonts/GoodBoy-ZVJrl.ttf') format('truetype');
+  src: url('../webfonts/GoodBoy-ZVJrl.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksilver';
+  src: url('../webfonts/Quicksilver.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Use Quicksilver for body text */
+body, input, select, textarea {
+  font-family: 'Quicksilver', 'Source Sans Pro', Helvetica, sans-serif;
+}
+
+/* Use GoodBoy for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'GoodBoy', 'Quicksilver', 'Source Sans Pro', Helvetica, sans-serif;
 }
 /*
 	Story by HTML5 UP
