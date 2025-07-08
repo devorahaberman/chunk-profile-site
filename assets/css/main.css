@@ -27,11 +27,11 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: GoodBoy, Helvetica, sans-serif;
+	font: quicksand, sans-serif;
 	vertical-align: baseline;}
 
 body {
-  font-family: 'GoodBoy', sans-serif;
+  font-family: quicksand, sans-serif;
 }
 
 body {
@@ -174,7 +174,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "GoodBoy", "Source Sans Pro", Helvetica, sans-serif;
+		font-family: quicksand, "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -209,6 +209,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: GoodBoy, "Source Sans Pro", Helvetica, sans-serif;
 		font-weight: 300;
 		line-height: 1.375;
 		letter-spacing: -0.05em;
@@ -216,32 +217,39 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+			font-family: GoodBoy, "Source Sans Pro", Helvetica, sans-serif;
 			color: inherit;
 			text-decoration: none;
 		}
 
 	h1 {
+		font-family: GoodBoy, "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 3.5rem;
 		line-height: 1.2;
 	}
 
 	h2 {
+		font-family: GoodBoy, "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 2.25rem;
 	}
 
 	h3 {
+		font-family: GoodBoy, "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1.5rem;
 	}
 
 	h4 {
+		font-family: GoodBoy, "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1.1rem;
 	}
 
 	h5 {
+		font-family: GoodBoy, "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.9rem;
 	}
 
 	h6 {
+		font-family: GoodBoy, "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.7rem;
 	}
 
