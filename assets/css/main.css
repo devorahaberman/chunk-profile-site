@@ -35,11 +35,7 @@ body {
 }
 
 body {
-  cursor: url('assets/cursor.png'), auto;
-}
-
-body {
-  cursor: url('/assets/cursor.png') 0 0, auto;
+  cursor: url('../cursor.png'), auto;
 }
 
 article, aside, details, figcaption, figure,
