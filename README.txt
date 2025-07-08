@@ -2,6 +2,8 @@
 
 ![Chunk being majestic](assets/images/Chunk-profile.png)
 
+<img src="assets/images/chunk-hero.jpg" alt="Chunk being majestic" width="600">
+
 Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, professional napper, enthusiastic drooler, and part-time yard sentinel. This is a static website project built with HTML5 UP and lovingly customized to celebrate one very large, very hairy, very good boy.
 
 This site introduces you to the floof, the myth, the legend.
