@@ -8690,3 +8690,9 @@ input, select, textarea {
   width: -webkit-calc(100% - 2px);
   width: calc(100% - 2px);
 }
+
+.instagram-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem; /* optional spacing */
+}
