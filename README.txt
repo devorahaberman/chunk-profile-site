@@ -1,6 +1,6 @@
 # 🐾 Chunk’s Official Profile Page
 
-![Chunk Banner](images/banner.jpg)
+![Chunk being majestic and fluffy](images/chunk-fluffy.jpg)
 
 Welcome to the digital domain of **Chunk** — majestic Tibetan Mastiff, professional napper, enthusiastic drooler, and part-time yard sentinel. This is a static website project built with HTML5 UP and lovingly customized to celebrate one very large, very hairy, very good boy.
 
